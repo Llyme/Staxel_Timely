@@ -12,7 +12,7 @@ Change the total seconds per ingame day and stop time without activating cheats.
 
 ### Configuration
 ```
-SecondsPerIngameGame = 1320 (22 Minutes)
+SecondsPerIngameDay = 1320 (22 Minutes)
 StopTime = False
 StopTimeKey = 192 (Tilde Key)
 ```
