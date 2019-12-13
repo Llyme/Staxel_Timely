@@ -12,4 +12,4 @@ Change the total seconds per ingame day and stop time without activating cheats.
 
 ### Controls
 
-Tilde (`) = Toggle stop time.
+Tilde ` = Toggle stop time.
